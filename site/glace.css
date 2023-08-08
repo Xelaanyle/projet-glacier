@@ -1,0 +1,42 @@
+.stock {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    align-items: center;
+    text-align: start;
+}
+
+.stock h2 {
+    font-family: 'Dancing script', cursive;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.stock form {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+
+.stock label,
+input,
+a,
+textarea {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    resize: none;
+}
+
+.stock select {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#btn-stock {
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 15px;
+}

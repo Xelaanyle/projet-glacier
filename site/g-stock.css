@@ -1,0 +1,29 @@
+.main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.main h2 {
+    margin-top: 50px;
+    font-family: 'Dancing script', cursive;
+    font-size: 35px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.gestion {
+    margin-top: 50px;
+}
+
+.gestion a {
+    display: block;
+    background-color: darkblue;
+    color: white;
+    width: 350px;
+    height: 70px;
+    font-size: 25px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 0 auto;
+}

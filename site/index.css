@@ -1,0 +1,31 @@
+.connect {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.connect h2 {
+    font-family: 'Dancing script', cursive;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.connect form {
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.connect label,
+input,
+a,select {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#btn-connect {
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 15px;
+}
