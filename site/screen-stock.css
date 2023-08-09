@@ -1,0 +1,36 @@
+.main {
+    width: 100%;
+    margin: 0 auto;
+    height: auto;
+}
+
+.main h2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'Dancing script', cursive;
+    font-size: 35px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.stock {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 400px;
+
+}
+
+.stock h3 {
+    font-family: 'lobster', cursive;
+    text-decoration: underline;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.congelateur, .parfum {
+    border-right: 2px solid black;
+}
+
+.stock p {
+    text-align: center;
+}
